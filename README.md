@@ -2,7 +2,7 @@
 
 Este aplicativo demonstra como utilizar serviços de infraestrutura como serviço (IaaS) e plataforma como serviço (PaaS) para implementar um aplicativo de previsão do tempo.
 
-## Começando
+## Começando.
 
 Para começar a usar este aplicativo de previsão do tempo, primeiro você precisa obter uma chave de API do WeatherAPI.
 
